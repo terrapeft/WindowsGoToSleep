@@ -1,0 +1,12 @@
+D:\Yandex.Disk\VS Projects\WindowsGoToSleep\WindowsGoToSleep\bin\Debug\WindowsGoToSleep.exe.config
+D:\Yandex.Disk\VS Projects\WindowsGoToSleep\WindowsGoToSleep\bin\Debug\WindowsGoToSleep.exe
+D:\Yandex.Disk\VS Projects\WindowsGoToSleep\WindowsGoToSleep\bin\Debug\WindowsGoToSleep.pdb
+D:\Yandex.Disk\VS Projects\WindowsGoToSleep\WindowsGoToSleep\obj\Debug\WindowsGoToSleep.csprojResolveAssemblyReference.cache
+D:\Yandex.Disk\VS Projects\WindowsGoToSleep\WindowsGoToSleep\obj\Debug\WindowsGoToSleep.Form1.resources
+D:\Yandex.Disk\VS Projects\WindowsGoToSleep\WindowsGoToSleep\obj\Debug\WindowsGoToSleep.Properties.Resources.resources
+D:\Yandex.Disk\VS Projects\WindowsGoToSleep\WindowsGoToSleep\obj\Debug\WindowsGoToSleep.csproj.GenerateResource.Cache
+D:\Yandex.Disk\VS Projects\WindowsGoToSleep\WindowsGoToSleep\obj\Debug\WindowsGoToSleep.exe
+D:\Yandex.Disk\VS Projects\WindowsGoToSleep\WindowsGoToSleep\obj\Debug\WindowsGoToSleep.pdb
+E:\YandexDisk\VS Projects\WindowsGoToSleep\WindowsGoToSleep\bin\Debug\WindowsGoToSleep.exe.config
+E:\YandexDisk\VS Projects\WindowsGoToSleep\WindowsGoToSleep\obj\Debug\WindowsGoToSleep.exe
+E:\YandexDisk\VS Projects\WindowsGoToSleep\WindowsGoToSleep\obj\Debug\WindowsGoToSleep.pdb
